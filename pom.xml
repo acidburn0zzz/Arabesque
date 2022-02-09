@@ -54,7 +54,7 @@
 
 	<properties>
 		<giraph.version>1.2.0-ARABESQUE</giraph.version>
-		<hadoop.version>2.6.0</hadoop.version>
+		<hadoop.version>2.10.1</hadoop.version>
 		<giraph.scope>compile</giraph.scope>
 		<hadoop.scope>provided</hadoop.scope>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
